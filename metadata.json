@@ -1,0 +1,6 @@
+{
+  "name": "Eleições nas Periferias - Guia Interativo",
+  "description": "Guia interativo da Agência Mural: Como identificar, verificar e não espalhar desinformação em tempos de IA nas eleições.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
